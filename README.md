@@ -31,15 +31,15 @@ The system provides a menu-driven interface:
    - Safe system shutdown
   
      #Screenshots from your running app.
-![1](https://github.com/user-attachments/assets/0b133c49-bc32-4ff7-902c-dbcf175b8ae9)
-![2](https://github.com/user-attachments/assets/5df0e33a-7c3d-4652-9772-bbdd494503a8)
-![3](https://github.com/user-attachments/assets/080351fe-1b6c-47c0-89e4-514e4f0eaec3)
-![4](https://github.com/user-attachments/assets/a688f21c-be26-412f-ab2b-c6af79a2caf9)
-![5](https://github.com/user-attachments/assets/bf3738bd-68e0-4d19-99db-8f2223f825a9)
-![6](https://github.com/user-attachments/assets/8820cf42-86c3-4742-8eec-eadafbe7daf8)
-![7](https://github.com/user-attachments/assets/adf5b14e-913f-4911-9e9e-6bf2261a6412)
-![8](https://github.com/user-attachments/assets/cad8e5d3-6fb4-4aad-b739-134ce319c6e2)
-![9](https://github.com/user-attachments/assets/89c16f0f-db30-4871-a8b8-ba467fde3773)
+![1](https://github.com/user-attachments/assets/77f049f2-899f-488d-9cff-9687ac8a974f)
+![2](https://github.com/user-attachments/assets/8fbdb056-4341-40cc-8ac6-a5212c33e780)
+![3](https://github.com/user-attachments/assets/142bf8a6-015f-4051-8a24-975932865e32)
+![4](https://github.com/user-attachments/assets/c7b893a5-e02a-449b-a9f3-31cbec9ab128)
+![5](https://github.com/user-attachments/assets/b8d09d47-97d7-4ff7-bf19-2ee01d5093c3)
+![6](https://github.com/user-attachments/assets/054d09cb-0af5-40f3-8727-31ae755ba1e7)
+![7](https://github.com/user-attachments/assets/19d3d7ed-bc0e-4c07-80c7-9fea9fed44cd)
+![8](https://github.com/user-attachments/assets/718eac5c-a48b-4df4-b430-c8cc34dc297c)
+![9](https://github.com/user-attachments/assets/49e5185d-42a7-4f74-b1cb-ba5bd60cee17)
 
 
 
