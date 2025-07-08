@@ -10,10 +10,10 @@ public class PaperBook extends Book {
     @Override
     public void deliver(String email, String address) {
         if (address == null || address.trim().isEmpty()) {
-            throw new IllegalArgumentException("Quantum book store: Address is required for paper book delivery");
+            throw new IllegalArgumentException("Address is required for paper book delivery");
         }
 
-        System.out.println("Quantum book store: Preparing paper book for shipping - " + title);
+        System.out.println("Preparing paper book for shipping - " + title);
         ShippingService shippingService = new ShippingService();
         shippingService.ship(this, address);
     }
@@ -25,7 +25,7 @@ public class PaperBook extends Book {
 
     @Override
     public String toString() {
-        return "Quantum book store: [PAPER] " + super.toString();
+        return " [PAPER] " + super.toString();
     }
 
 }
